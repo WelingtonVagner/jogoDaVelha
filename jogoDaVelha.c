@@ -46,7 +46,7 @@ int main(){
             if(count1==3){
                 p1 = 1;
             }
-            else{
+            else if(count2==3){
                 p2 = 1;
             }
         }
@@ -64,7 +64,7 @@ int main(){
             if(dia1==3){
                 p1 = 1;
             }
-            else{
+            else if(dia2==3){
                 p2 = 1;
             }
         }
@@ -85,7 +85,7 @@ int main(){
             if(ADia1==3){
                 p1 = 1;
             }
-            else{
+            else if(Adia2==3){
                 p2 = 1;
             }
        }
@@ -107,7 +107,7 @@ int main(){
             if(count1==3){
                 p1 = 1;
             }
-            else{
+            else if(count2==3){
                 p2 = 1;
             }
         }
