@@ -138,7 +138,7 @@ int main(){
 
     printf("----------FIM DE JOGO-------------\n");
     if(p1){
-        printf("JOGADOR 1 GANHOU!\n");
+        printf("    JOGADOR 1 GANHOU!\n");
     }
     else{
         printf("    JOGADOR 2 GANHOU!\n");
